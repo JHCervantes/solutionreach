@@ -1,6 +1,6 @@
 # Solutionreach QA exam
 #### Scenario:
-1) Go to https://www.smilereminder.com/sr/login.jsp
+1) Go to given url
 2) Enter invalid credentials
 3) Assert errors displayed
 
